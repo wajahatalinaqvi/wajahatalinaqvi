@@ -1,0 +1,42 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="line" x1="90" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22C55E"/><stop offset="0.38" stop-color="#3B82F6"/><stop offset="0.7" stop-color="#8B5CF6"/><stop offset="1" stop-color="#06B6D4"/>
+  </linearGradient>
+  <filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="230" rx="24" fill="#070B14"/>
+<path d="M145 115H1055" stroke="#334155" stroke-width="3"/>
+<path d="M145 115H1055" stroke="url(#line)" stroke-width="3" stroke-dasharray="12 16">
+  <animate attributeName="stroke-dashoffset" values="0;-56" dur="2.2s" repeatCount="indefinite"/>
+</path>
+
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+  <g transform="translate(145 115)">
+    <circle r="44" fill="#0F172A" stroke="#22C55E" stroke-width="2"/>
+    <circle r="8" fill="#22C55E" filter="url(#g)"><animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/></circle>
+    <text y="75" fill="#A7F3D0" font-size="15" font-weight="700">SHOPIFY</text>
+  </g>
+  <g transform="translate(365 115)">
+    <circle r="44" fill="#0F172A" stroke="#60A5FA" stroke-width="2"/>
+    <circle r="8" fill="#60A5FA" filter="url(#g)"><animate attributeName="r" values="6;10;6" dur="2.2s" repeatCount="indefinite"/></circle>
+    <text y="75" fill="#BFDBFE" font-size="15" font-weight="700">REACT / NEXT</text>
+  </g>
+  <g transform="translate(600 115)">
+    <circle r="44" fill="#0F172A" stroke="#FB7185" stroke-width="2"/>
+    <circle r="8" fill="#FB7185" filter="url(#g)"><animate attributeName="r" values="6;10;6" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text y="75" fill="#FECDD3" font-size="15" font-weight="700">LARAVEL / API</text>
+  </g>
+  <g transform="translate(835 115)">
+    <circle r="44" fill="#0F172A" stroke="#A78BFA" stroke-width="2"/>
+    <circle r="8" fill="#A78BFA" filter="url(#g)"><animate attributeName="r" values="6;10;6" dur="2.6s" repeatCount="indefinite"/></circle>
+    <text y="75" fill="#DDD6FE" font-size="15" font-weight="700">AUTOMATION</text>
+  </g>
+  <g transform="translate(1055 115)">
+    <circle r="44" fill="#0F172A" stroke="#22D3EE" stroke-width="2"/>
+    <circle r="8" fill="#22D3EE" filter="url(#g)"><animate attributeName="r" values="6;10;6" dur="2.8s" repeatCount="indefinite"/></circle>
+    <text y="75" fill="#CFFAFE" font-size="15" font-weight="700">AI</text>
+  </g>
+</g>
+<text x="600" y="32" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="16" letter-spacing="2">MY BUILD LOOP</text>
+</svg>
