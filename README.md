@@ -27,6 +27,14 @@
   <b>Shopify apps</b> · <b>Custom storefronts</b> · <b>React / Next.js</b> · <b>Laravel</b> · <b>APIs</b> · <b>Automation</b> · <b>AI workflows</b>
 </p>
 
+<p align="center">
+  <a href="#-featured-builds">Explore builds</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-stack-i-reach-for">View stack</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#-github-signal">See activity</a>
+</p>
+
 ---
 
 ## ⚡ BUILD MODE
@@ -122,18 +130,44 @@ Shopify theme development with custom **Liquid sections, snippets, templates, as
 | Checkout / post-purchase UX | Dashboards & admin systems | AI-assisted analysis |
 | Storefront performance | Webhooks, queues & integrations | Tool orchestration |
 
+<details>
+<summary><b>Open my build philosophy</b></summary>
+<br />
+
+```text
+Useful > flashy
+Clear > clever
+Maintainable > magical
+Measured automation > blind automation
+Ship → observe → improve
+```
+
+I care about product decisions as much as implementation: what deserves automation, where humans should stay in the loop, and how the interface communicates system state.
+
+</details>
+
 ---
 
 ## 📊 GITHUB SIGNAL
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wajahatalinaqvi&bg_color=00000000&color=9CA3AF&line=60A5FA&point=67E8F9&area=true&hide_border=true&custom_title=Contribution%20Pulse" alt="GitHub contribution activity graph" />
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=wajahatalinaqvi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahatalinaqvi&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
 </p>
 
+<details>
+<summary><b>More GitHub telemetry</b></summary>
+<br />
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wajahatalinaqvi&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
+
+</details>
 
 ---
 
