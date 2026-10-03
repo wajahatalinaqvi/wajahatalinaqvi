@@ -2,6 +2,12 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="Wajahat Naqvi — Shopify Developer, Full-stack Engineer, AI Builder" />
 </p>
 
+<h1 align="center">Wajahat Naqvi — Shopify Full-Stack Developer</h1>
+
+<p align="center">
+  Shopify app developer and full-stack engineer based in Lahore, Pakistan, building with Shopify Liquid, React, Next.js, Laravel, GraphQL, APIs, ecommerce automation, and practical AI workflows.
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=67E8F9&center=true&vCenter=true&width=950&lines=I+build+Shopify+products+that+feel+fast+and+useful.;React+%2B+Laravel+%2B+Shopify+is+my+happy+place.;I+turn+repetitive+workflows+into+automation.;AI+is+most+useful+when+it+ships+real+work." alt="Typing animation" />
@@ -14,6 +20,9 @@
   </a>
   <a href="https://github.com/wajahatalinaqvi?tab=repositories">
     <img src="https://img.shields.io/badge/PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/wajahatnaqvi-developer/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Wajahat Naqvi on LinkedIn" />
   </a>
   <a href="mailto:wajahatalinaqvi929@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
