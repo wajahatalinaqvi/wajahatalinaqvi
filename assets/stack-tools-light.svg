@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="944" height="44" viewBox="0 0 944 44" fill="none" role="img" aria-label="Also in the toolbox: Shopify, Liquid, Polaris, GraphQL, REST APIs, GitHub Actions, AI workflows">
+  <title>Also in the toolbox: Shopify, Liquid, Polaris, GraphQL, REST APIs, GitHub Actions, AI workflows</title>
+  <style>
+    .sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .text{fill:#0b0f14} .muted{fill:#57606a} .faint{fill:#afb8c1} .mint{fill:#087f5b}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    .d{animation:d 2.45s ease-in-out infinite}
+    @keyframes d{0%,100%{opacity:.3}30%{opacity:1}}
+  </style>
+  <g transform="translate(2 2)"><rect width="109" height="40" rx="20" fill="#f6f8fa" stroke="#d8dee4"/><circle class="d" style="animation-delay:0.00s" cx="20" cy="20" r="4" fill="#20c997"/><text class="mono text" x="32" y="25" font-size="15">Shopify</text></g>
+  <g transform="translate(121 2)"><rect width="100" height="40" rx="20" fill="#f6f8fa" stroke="#d8dee4"/><circle class="d" style="animation-delay:0.35s" cx="20" cy="20" r="4" fill="#20c997"/><text class="mono text" x="32" y="25" font-size="15">Liquid</text></g>
+  <g transform="translate(231 2)"><rect width="109" height="40" rx="20" fill="#f6f8fa" stroke="#d8dee4"/><circle class="d" style="animation-delay:0.70s" cx="20" cy="20" r="4" fill="#20c997"/><text class="mono text" x="32" y="25" font-size="15">Polaris</text></g>
+  <g transform="translate(350 2)"><rect width="109" height="40" rx="20" fill="#f6f8fa" stroke="#d8dee4"/><circle class="d" style="animation-delay:1.05s" cx="20" cy="20" r="4" fill="#20c997"/><text class="mono text" x="32" y="25" font-size="15">GraphQL</text></g>
+  <g transform="translate(469 2)"><rect width="127" height="40" rx="20" fill="#f6f8fa" stroke="#d8dee4"/><circle class="d" style="animation-delay:1.40s" cx="20" cy="20" r="4" fill="#20c997"/><text class="mono text" x="32" y="25" font-size="15">REST APIs</text></g>
+  <g transform="translate(606 2)"><rect width="172" height="40" rx="20" fill="#f6f8fa" stroke="#d8dee4"/><circle class="d" style="animation-delay:1.75s" cx="20" cy="20" r="4" fill="#20c997"/><text class="mono text" x="32" y="25" font-size="15">GitHub Actions</text></g>
+  <g transform="translate(788 2)"><rect width="154" height="40" rx="20" fill="#f6f8fa" stroke="#d8dee4"/><circle class="d" style="animation-delay:2.10s" cx="20" cy="20" r="4" fill="#20c997"/><text class="mono text" x="32" y="25" font-size="15">AI workflows</text></g>
+</svg>

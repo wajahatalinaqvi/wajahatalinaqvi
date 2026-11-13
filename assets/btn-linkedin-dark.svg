@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175" height="60" viewBox="0 0 175 60" fill="none" role="img" aria-label="LinkedIn">
+  <title>LinkedIn</title>
+  <style>
+    .sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .text{fill:#e6edf3} .muted{fill:#8b98a5} .faint{fill:#3a4654} .mint{fill:#63e6be}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    .sh{animation:sh 4.5s ease-in-out infinite}
+    @keyframes sh{0%,55%{transform:translateX(-120px)}100%{transform:translateX(215px)}}
+  </style>
+  <defs>
+    <clipPath id="bc"><rect width="175" height="60" rx="12"/></clipPath>
+    <linearGradient id="bs" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="173.5" height="58.5" rx="11.5" fill="#0f151c" stroke="#1c2631" stroke-width="1.5"/>
+  
+  <text class="mono" x="26" y="35.5" font-size="15" font-weight="700" fill="#63e6be">in</text>
+  <text class="sans" x="52" y="36.5" font-size="19" font-weight="600" fill="#e6edf3">LinkedIn</text>
+</svg>

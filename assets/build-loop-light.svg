@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none" role="img" aria-label="Build loop: Shopify, React / Next, Laravel / API, Automation, AI">
+  <title>Build loop: Shopify, React / Next, Laravel / API, Automation, AI</title>
+  <style>
+    .sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .text{fill:#0b0f14} .muted{fill:#57606a} .faint{fill:#afb8c1} .mint{fill:#087f5b}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    .comet{animation:travel 7s linear infinite}
+    @keyframes travel{0%{transform:translateX(0);opacity:0}4%{transform:translateX(0);opacity:1}70%{transform:translateX(920px);opacity:1}78%,100%{transform:translateX(920px);opacity:0}}
+    .trail{stroke-dasharray:920;stroke-dashoffset:920;animation:trail 7s linear infinite}
+    @keyframes trail{0%,4%{stroke-dashoffset:920;opacity:1}70%{stroke-dashoffset:0;opacity:1}82%,100%{stroke-dashoffset:0;opacity:0}}
+    .lit{opacity:0;animation:lit 7s ease-out infinite}
+    @keyframes lit{0%{opacity:1}55%{opacity:.15}100%{opacity:0}}
+    .halo{opacity:0;transform-box:fill-box;transform-origin:center;animation:halo 7s ease-out infinite}
+    @keyframes halo{0%{opacity:.7;transform:scale(1)}14%{opacity:0;transform:scale(1.6)}100%{opacity:0;transform:scale(1.6)}}
+  </style>
+  <defs>
+    <linearGradient id="tr" x1="140" y1="0" x2="1060" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20c997" stop-opacity=".15"/><stop offset="1" stop-color="#20c997"/>
+    </linearGradient>
+    <radialGradient id="cg"><stop stop-color="#20c997" stop-opacity=".55"/><stop offset="1" stop-color="#20c997" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="259" rx="20" fill="#ffffff" stroke="#d8dee4"/>
+  <text class="mono faint" x="32" y="36" font-size="12" letter-spacing="3">MY BUILD LOOP</text>
+  <text class="mono faint" x="1168" y="36" font-size="12" letter-spacing="3" text-anchor="end">LOOPS FOREVER</text>
+  <path d="M140 96H1060" stroke="#d8dee4" stroke-width="2" stroke-dasharray="4 8"/>
+  <path class="trail" d="M140 96H1060" stroke="url(#tr)" stroke-width="2.5"/>
+  <g transform="translate(140 96)">
+    <circle r="34" fill="#ffffff" stroke="#d8dee4" stroke-width="2"/>
+    <circle class="lit" style="animation-delay:0.28s" r="34" stroke="#20c997" stroke-width="2.5"/>
+    <circle class="halo" style="animation-delay:0.28s" r="34" stroke="#20c997" stroke-width="2"/>
+    <circle r="7" fill="#20c997"/>
+    <text class="mono text" y="70" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.5">SHOPIFY</text>
+    <text class="sans muted" y="94" font-size="14" text-anchor="middle">apps · themes</text>
+  </g>
+  <g transform="translate(370 96)">
+    <circle r="34" fill="#ffffff" stroke="#d8dee4" stroke-width="2"/>
+    <circle class="lit" style="animation-delay:1.43s" r="34" stroke="#20c997" stroke-width="2.5"/>
+    <circle class="halo" style="animation-delay:1.43s" r="34" stroke="#20c997" stroke-width="2"/>
+    <circle r="7" fill="#20c997"/>
+    <text class="mono text" y="70" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.5">REACT / NEXT</text>
+    <text class="sans muted" y="94" font-size="14" text-anchor="middle">interfaces</text>
+  </g>
+  <g transform="translate(600 96)">
+    <circle r="34" fill="#ffffff" stroke="#d8dee4" stroke-width="2"/>
+    <circle class="lit" style="animation-delay:2.59s" r="34" stroke="#20c997" stroke-width="2.5"/>
+    <circle class="halo" style="animation-delay:2.59s" r="34" stroke="#20c997" stroke-width="2"/>
+    <circle r="7" fill="#20c997"/>
+    <text class="mono text" y="70" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.5">LARAVEL / API</text>
+    <text class="sans muted" y="94" font-size="14" text-anchor="middle">APIs · data</text>
+  </g>
+  <g transform="translate(830 96)">
+    <circle r="34" fill="#ffffff" stroke="#d8dee4" stroke-width="2"/>
+    <circle class="lit" style="animation-delay:3.74s" r="34" stroke="#20c997" stroke-width="2.5"/>
+    <circle class="halo" style="animation-delay:3.74s" r="34" stroke="#20c997" stroke-width="2"/>
+    <circle r="7" fill="#20c997"/>
+    <text class="mono text" y="70" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.5">AUTOMATION</text>
+    <text class="sans muted" y="94" font-size="14" text-anchor="middle">queues · webhooks</text>
+  </g>
+  <g transform="translate(1060 96)">
+    <circle r="34" fill="#ffffff" stroke="#d8dee4" stroke-width="2"/>
+    <circle class="lit" style="animation-delay:4.90s" r="34" stroke="#20c997" stroke-width="2.5"/>
+    <circle class="halo" style="animation-delay:4.90s" r="34" stroke="#20c997" stroke-width="2"/>
+    <circle r="7" fill="#20c997"/>
+    <text class="mono text" y="70" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1.5">AI</text>
+    <text class="sans muted" y="94" font-size="14" text-anchor="middle">agents · workflows</text>
+  </g>
+  <g class="comet"><circle cx="140" cy="96" r="22" fill="url(#cg)"/><circle cx="140" cy="96" r="5" fill="#20c997"/></g>
+  <text class="mono muted" x="600" y="236" font-size="14" text-anchor="middle" letter-spacing=".5">idea → UX → frontend → API → data → automation → ship</text>
+</svg>

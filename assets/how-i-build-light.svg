@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" fill="none" role="img" aria-label="How I build: 1. Understand the business problem. 2. Make the UX feel obvious. 3. Keep the architecture maintainable. 4. Automate repetitive work. 5. Measure what actually matters. 6. Ship — then improve.">
+  <title>How I build: 1. Understand the business problem. 2. Make the UX feel obvious. 3. Keep the architecture maintainable. 4. Automate repetitive work. 5. Measure what actually matters. 6. Ship — then improve.</title>
+  <style>
+    .sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .text{fill:#0b0f14} .muted{fill:#57606a} .faint{fill:#afb8c1} .mint{fill:#087f5b}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    @keyframes l0{0%,5.625%{opacity:0;transform:translateY(6px)}8.125%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .l0{opacity:0;animation:l0 16s ease-out infinite}
+    @keyframes l1{0%,10.313%{opacity:0;transform:translateY(6px)}12.813%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .l1{opacity:0;animation:l1 16s ease-out infinite}
+    @keyframes l2{0%,15%{opacity:0;transform:translateY(6px)}17.5%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .l2{opacity:0;animation:l2 16s ease-out infinite}
+    @keyframes l3{0%,19.688%{opacity:0;transform:translateY(6px)}22.188%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .l3{opacity:0;animation:l3 16s ease-out infinite}
+    @keyframes l4{0%,24.375%{opacity:0;transform:translateY(6px)}26.875%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .l4{opacity:0;animation:l4 16s ease-out infinite}
+    @keyframes l5{0%,29.063%{opacity:0;transform:translateY(6px)}31.563%,90%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(0)}}
+    .l5{opacity:0;animation:l5 16s ease-out infinite}
+    @keyframes lp{0%,33.75%{opacity:0}34.75%,90%{opacity:1}95%,100%{opacity:0}}
+    .lp{opacity:0;animation:lp 16s linear infinite}
+    .blink{animation:blink 1s steps(1,end) infinite}
+    @keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+  </style>
+  <rect x=".5" y=".5" width="1199" height="399" rx="18" fill="#f6f8fa" stroke="#d8dee4"/>
+  <path d="M1 46H1199" stroke="#d8dee4"/>
+  <circle cx="30" cy="23" r="6" fill="#afb8c1"/><circle cx="52" cy="23" r="6" fill="#afb8c1"/><circle cx="74" cy="23" r="6" fill="#20c997"/>
+  <text class="mono muted" x="600" y="28" font-size="13" text-anchor="middle">wajahat@lahore: ~/how-i-build</text>
+  <text class="mono" x="56" y="98" font-size="18"><tspan class="mint" font-weight="700">$</tspan><tspan class="text"> cat build-process.txt</tspan></text>
+  <g class="l0"><text class="mono mint" x="56" y="150" font-size="18" font-weight="700">01</text><text class="mono text" x="100" y="150" font-size="18">Understand the business problem.</text></g>
+  <g class="l1"><text class="mono mint" x="56" y="186" font-size="18" font-weight="700">02</text><text class="mono text" x="100" y="186" font-size="18">Make the UX feel obvious.</text></g>
+  <g class="l2"><text class="mono mint" x="56" y="222" font-size="18" font-weight="700">03</text><text class="mono text" x="100" y="222" font-size="18">Keep the architecture maintainable.</text></g>
+  <g class="l3"><text class="mono mint" x="56" y="258" font-size="18" font-weight="700">04</text><text class="mono text" x="100" y="258" font-size="18">Automate repetitive work.</text></g>
+  <g class="l4"><text class="mono mint" x="56" y="294" font-size="18" font-weight="700">05</text><text class="mono text" x="100" y="294" font-size="18">Measure what actually matters.</text></g>
+  <g class="l5"><text class="mono mint" x="56" y="330" font-size="18" font-weight="700">06</text><text class="mono text" x="100" y="330" font-size="18">Ship — then improve.</text></g>
+  <g class="lp"><text class="mono mint" x="56" y="374" font-size="18" font-weight="700">$</text><rect class="blink" x="78" y="357" width="11" height="22" fill="#20c997"/></g>
+</svg>

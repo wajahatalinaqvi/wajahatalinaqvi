@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="60" viewBox="0 0 184 60" fill="none" role="img" aria-label="Projects">
+  <title>Projects</title>
+  <style>
+    .sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .text{fill:#0b0f14} .muted{fill:#57606a} .faint{fill:#afb8c1} .mint{fill:#087f5b}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    .sh{animation:sh 4.5s ease-in-out infinite}
+    @keyframes sh{0%,55%{transform:translateX(-120px)}100%{transform:translateX(224px)}}
+  </style>
+  <defs>
+    <clipPath id="bc"><rect width="184" height="60" rx="12"/></clipPath>
+    <linearGradient id="bs" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="182.5" height="58.5" rx="11.5" fill="#f6f8fa" stroke="#d8dee4" stroke-width="1.5"/>
+  
+  <text class="mono" x="26" y="35.5" font-size="15" font-weight="700" fill="#087f5b">{ }</text>
+  <text class="sans" x="61" y="36.5" font-size="19" font-weight="600" fill="#0b0f14">Projects</text>
+</svg>

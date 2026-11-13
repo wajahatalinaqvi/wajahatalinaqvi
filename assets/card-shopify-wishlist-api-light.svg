@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220" fill="none" role="img" aria-label="Shopify Customer Wishlist API: A lightweight wishlist backend that stores customer wishlists in Shopify metafields and resolves saved products through the Admin API.">
+  <title>Shopify Customer Wishlist API: A lightweight wishlist backend that stores customer wishlists in Shopify metafields and resolves saved products through the Admin API.</title>
+  <style>
+    .sans{font-family:'Geist','Inter','Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}
+    .mono{font-family:'Geist Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+    .text{fill:#0b0f14} .muted{fill:#57606a} .faint{fill:#afb8c1} .mint{fill:#087f5b}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    .scan{animation:scan 5s ease-in-out infinite;animation-delay:0.6s}
+    @keyframes scan{0%{transform:translateX(-160px)}60%,100%{transform:translateX(460px)}}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  </style>
+  <defs>
+    <clipPath id="cl"><rect width="440" height="220" rx="16"/></clipPath>
+    <linearGradient id="sg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#20c997" stop-opacity="0"/><stop offset=".5" stop-color="#20c997"/><stop offset="1" stop-color="#20c997" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g clip-path="url(#cl)">
+    <rect width="440" height="220" fill="#f6f8fa"/>
+    <rect class="scan" y="0" width="160" height="2" fill="url(#sg)"/>
+  </g>
+  <rect x=".5" y=".5" width="439" height="219" rx="15.5" stroke="#d8dee4"/>
+  <circle class="pulse" cx="31" cy="36" r="3.5" fill="#20c997"/>
+  <text class="mono mint" x="42" y="40" font-size="11.5" letter-spacing="2" font-weight="600">02  ·  NODE.JS</text>
+  <text class="mono muted" x="412" y="40" font-size="11.5" letter-spacing="1.5" text-anchor="end">VIEW REPO ↗</text>
+  <text class="sans text" x="28" y="80" font-size="22" font-weight="700" letter-spacing="-.4">Shopify Customer Wishlist API</text>
+  <text class="sans muted" x="28" y="110" font-size="14.5">A lightweight wishlist backend that stores</text>
+  <text class="sans muted" x="28" y="130" font-size="14.5">customer wishlists in Shopify metafields and</text>
+  <text class="sans muted" x="28" y="150" font-size="14.5">resolves saved products through the Admin API.</text>
+  <g transform="translate(28 172)"><rect width="66.19999999999999" height="24" rx="12" fill="#ffffff" stroke="#d8dee4"/><text class="mono muted" x="33.099999999999994" y="16" font-size="11" text-anchor="middle">Node.js</text></g>
+  <g transform="translate(100.19999999999999 172)"><rect width="66.19999999999999" height="24" rx="12" fill="#ffffff" stroke="#d8dee4"/><text class="mono muted" x="33.099999999999994" y="16" font-size="11" text-anchor="middle">Express</text></g>
+  <g transform="translate(172.39999999999998 172)"><rect width="132.2" height="24" rx="12" fill="#ffffff" stroke="#d8dee4"/><text class="mono muted" x="66.1" y="16" font-size="11" text-anchor="middle">Shopify Admin API</text></g>
+  <g transform="translate(310.59999999999997 172)"><rect width="59.6" height="24" rx="12" fill="#ffffff" stroke="#d8dee4"/><text class="mono muted" x="29.8" y="16" font-size="11" text-anchor="middle">Liquid</text></g>
+</svg>
