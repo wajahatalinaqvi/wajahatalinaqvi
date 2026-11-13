@@ -89,8 +89,8 @@ I care about product decisions as much as implementation: what deserves automati
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,php,nodejs,html,css,tailwind,postgres,redis,git,github,vscode&perline=8&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,php,nodejs,html,css,tailwind,postgres,redis,git,github,vscode&perline=8&theme=light" alt="JavaScript, TypeScript, React, Next.js, Laravel, PHP, Node.js, HTML, CSS, Tailwind, PostgreSQL, Redis, Git, GitHub, VS Code" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnextjs%2Claravel%2Cphp%2Cnodejs%2Chtml%2Ccss%2Ctailwind%2Cpostgres%2Credis%2Cgit%2Cgithub%2Cvscode&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnextjs%2Claravel%2Cphp%2Cnodejs%2Chtml%2Ccss%2Ctailwind%2Cpostgres%2Credis%2Cgit%2Cgithub%2Cvscode&perline=8&theme=light" alt="JavaScript, TypeScript, React, Next.js, Laravel, PHP, Node.js, HTML, CSS, Tailwind, PostgreSQL, Redis, Git, GitHub, VS Code" />
   </picture>
 </p>
 

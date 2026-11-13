@@ -50,7 +50,7 @@ function hero(t) {
     .q${i}{animation:k${i} ${C}s linear infinite,q${i} ${C}s linear infinite}`;
     clips += `<clipPath id="c${i}"><rect class="k${i}" x="${x0 - w}" y="${ty - 24}" width="${w}" height="34"/></clipPath>`;
     typeSvg += `
-    <text class="mono text" x="${x0}" y="${ty}" font-size="${size}" clip-path="url(#c${i})">${esc(line)}</text>
+    <text class="mono text" x="${x0}" y="${ty}" font-size="${size}" textLength="${(L * cw).toFixed(1)}" lengthAdjust="spacingAndGlyphs" clip-path="url(#c${i})">${esc(line)}</text>
     <g class="q${i}" opacity="0"><rect class="blink" x="${x0 + 1}" y="${ty - 19}" width="11" height="24" rx="1" fill="${t.mint}"/></g>`;
   });
 
@@ -94,7 +94,7 @@ function hero(t) {
   <text class="sans text" x="62" y="176" font-size="70" font-weight="700" letter-spacing="-2">Wajahat Naqvi</text>
   <text class="sans muted" x="64" y="224" font-size="28" font-weight="500" letter-spacing="-.3">Shopify Full-Stack Developer</text>
   <text class="mono mint" x="64" y="${ty}" font-size="${size}" font-weight="700">›</text>${typeSvg}
-  <text class="mono faint" x="64" y="366" font-size="13" letter-spacing="2.5">SHOPIFY · REACT / NEXT.JS · LARAVEL · APIs · AUTOMATION · AI</text>`;
+  <text class="mono muted" x="64" y="366" font-size="13" letter-spacing="2.5">SHOPIFY · REACT / NEXT.JS · LARAVEL · APIs · AUTOMATION · AI</text>`;
   return svg(W, H, body, style, "Wajahat Naqvi, Shopify Full-Stack Developer in Lahore, Pakistan");
 }
 

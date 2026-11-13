@@ -76,13 +76,13 @@
   <text class="sans text" x="62" y="176" font-size="70" font-weight="700" letter-spacing="-2">Wajahat Naqvi</text>
   <text class="sans muted" x="64" y="224" font-size="28" font-weight="500" letter-spacing="-.3">Shopify Full-Stack Developer</text>
   <text class="mono mint" x="64" y="296" font-size="21" font-weight="700">›</text>
-    <text class="mono text" x="92" y="296" font-size="21" clip-path="url(#c0)">I build Shopify products that feel fast and useful.</text>
+    <text class="mono text" x="92" y="296" font-size="21" textLength="642.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">I build Shopify products that feel fast and useful.</text>
     <g class="q0" opacity="0"><rect class="blink" x="93" y="277" width="11" height="24" rx="1" fill="#63e6be"/></g>
-    <text class="mono text" x="92" y="296" font-size="21" clip-path="url(#c1)">React + Laravel + Shopify is my happy place.</text>
+    <text class="mono text" x="92" y="296" font-size="21" textLength="554.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">React + Laravel + Shopify is my happy place.</text>
     <g class="q1" opacity="0"><rect class="blink" x="93" y="277" width="11" height="24" rx="1" fill="#63e6be"/></g>
-    <text class="mono text" x="92" y="296" font-size="21" clip-path="url(#c2)">I turn repetitive workflows into automation.</text>
+    <text class="mono text" x="92" y="296" font-size="21" textLength="554.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">I turn repetitive workflows into automation.</text>
     <g class="q2" opacity="0"><rect class="blink" x="93" y="277" width="11" height="24" rx="1" fill="#63e6be"/></g>
-    <text class="mono text" x="92" y="296" font-size="21" clip-path="url(#c3)">AI is most useful when it ships real work.</text>
+    <text class="mono text" x="92" y="296" font-size="21" textLength="529.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">AI is most useful when it ships real work.</text>
     <g class="q3" opacity="0"><rect class="blink" x="93" y="277" width="11" height="24" rx="1" fill="#63e6be"/></g>
-  <text class="mono faint" x="64" y="366" font-size="13" letter-spacing="2.5">SHOPIFY · REACT / NEXT.JS · LARAVEL · APIs · AUTOMATION · AI</text>
+  <text class="mono muted" x="64" y="366" font-size="13" letter-spacing="2.5">SHOPIFY · REACT / NEXT.JS · LARAVEL · APIs · AUTOMATION · AI</text>
 </svg>
